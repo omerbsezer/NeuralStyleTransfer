@@ -2,6 +2,11 @@
 
 Neural Style Transfer is a method of creating artistic style images using Deep Neural Networks. This algorithm was created by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576). Code is adapted from Andrew Ng's Course 'Convolutional Neural Networks".
 
+
+## Results
+![neuralstyleresult](https://user-images.githubusercontent.com/10358317/43687834-69c20dcc-98e5-11e8-923d-68ef76238b6f.jpg)
+
+
 ## To run codes
 * Pre-trained model should be downloaded from http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat (file size = ~500MB)
 * Run main.py (content and style images should be in the images folder)
