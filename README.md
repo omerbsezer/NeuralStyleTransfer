@@ -1,6 +1,6 @@
 # Neural Style Transfer
 
-Neural Style Transfer is a method of creating artistic style images using Deep Neural Networks. This algorithm was created by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576). Code is adapted from Andrew Ng's Course 'Convolutional Neural Networks".
+Neural Style Transfer is a method of creating artistic style images using Deep Neural Networks (Convolutional Neural Networks). This algorithm was created by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576). Code is adapted from Andrew Ng's Course 'Convolutional Neural Networks".
 
 
 ## Results
@@ -30,3 +30,8 @@ Neural Style Transfer is a method of creating artistic style images using Deep N
 * Compute the total cost
 * Define the optimizer and the learning rate
 * Initialize the TensorFlow graph and run it for a large number of iterations, updating the generated image at every step.
+
+## References
+* [Neural Style Transfer](https://arxiv.org/abs/1508.06576): Gatys et al. (2015) (https://arxiv.org/abs/1508.06576)
+* Andrew Ng, [Convolutional Neural Network Course](https://www.coursera.org/learn/convolutional-neural-networks), Deep Learning Specialization
+* [VGG-19 Model with ImageNet database](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) 
